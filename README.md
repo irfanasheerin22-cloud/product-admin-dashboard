@@ -94,3 +94,16 @@ LinkedIn: https://linkedin.com/in/irfana-sheerin-064509378
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository!
+## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](public/screenshots/dashboard.png)
+
+### Add Product
+![Add Product](public/screenshots/add-product.png)
+
+### View Product
+![View Product](public/screenshots/view-product.png)
+
+### Edit Product
+![Edit Product](public/screenshots/edit-product.png)
